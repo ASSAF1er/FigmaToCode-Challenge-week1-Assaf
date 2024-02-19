@@ -68,7 +68,7 @@ function Footer() {
         </ul>
       </div>
       <p className="text-white text-[16px] text-center pt-3 md:pt-10 ">
-        © Doctor all rights {new Date().getFullYear()} - Designed by Assaf
+        © Doctor all rights {new Date().getFullYear()} - Coded by Assaf
       </p>
     </div>
   );
