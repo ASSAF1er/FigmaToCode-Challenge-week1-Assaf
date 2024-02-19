@@ -25,7 +25,7 @@ function Navbar() {
 
   return (
     <nav className="relative flex items-center justify-around px-auto md:pt-[25px] bg-[#F2F7FF] overflow-hidden ">
-      <div className="relative font-sora text-[32px] pr-[40px] pt-[9px] doctor-gradient text-transparent font-[600] leading-normal">
+      <div className="relative font-sora text-[32px] pr-[40px] pt-[9px] doctor-gradient text-transparent font-[6   00] leading-normal">
         Doctor{" "}
         <div className="absolute  right-0 top-0">
           <img
@@ -62,7 +62,7 @@ function Navbar() {
       <ul
         className={classNames(
           showMobileNav ? "right-0" : "-right-[100vw]",
-          "md:hidden fixed duration-500 ease-in-out top-0 z-[200] flex flex-col items-center justify-center gap-[50px] h-full w-screen bg-[#3A8EF6] text-white ",
+          "md:hidden fixed duration-500 ease-in-out top-0 z-[999] flex flex-col items-center justify-center gap-[50px] h-full w-screen bg-[#3A8EF6] text-white ",
         )}
       >
         {NAV_LINKS.map((item, index) => (

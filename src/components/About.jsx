@@ -56,7 +56,7 @@ function About() {
         <div
           onClick={scrollToTop}
           className={classNames(
-            " fixed  bottom-5 right-5 animate-bounce hover:animate-none flex items-center justify-center rounded-full shadow-xl p-3 md:p-4 cursor-pointer bg-white hover:bg-gray-100",
+            " fixed z-[200] bottom-5 right-5 animate-bounce hover:animate-none flex items-center justify-center rounded-full shadow-xl p-3 md:p-4 cursor-pointer bg-white hover:bg-gray-100",
           )}
         >
           <span className="material-icons text-blue-500">north</span>
