@@ -19,7 +19,7 @@ function Contact() {
             egestas viverra turpis habitant eu sociis fermentum felis.
           </p>
           <div className="flex justify-center">
-            <button className="flex justify-center items-center gap-[6px] w-full md:w-auto mt-10 py-3 px-[15px] md:px-[28px] bg-white rounded-full text-[18px] font-medium text-white ">
+            <button className="flex justify-center items-center gap-[6px] w-full md:w-auto mt-10 py-3 px-[13px] md:px-[28px] bg-white rounded-full text-[16px] md:text-[18px] font-medium text-white ">
               <img src={whatsapp_blue} alt="" className="w-[24px] h-[24px] " />{" "}
               <span className="text-[#3A8EF6] ">Book an Appoinment</span>
             </button>
