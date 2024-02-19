@@ -25,7 +25,7 @@ function Navbar() {
 
   return (
     <nav className="relative flex items-center justify-around px-auto md:pt-[25px] bg-[#F2F7FF] overflow-hidden ">
-      <div className="relative font-sora text-[32px] pr-[40px] pt-[9px] doctor-gradient text-transparent font-[6   00] leading-normal">
+      <div className="relative font-sora text-[32px] pr-[40px] pt-[9px] doctor-gradient text-transparent font-[600] leading-normal">
         Doctor{" "}
         <div className="absolute  right-0 top-0">
           <img
